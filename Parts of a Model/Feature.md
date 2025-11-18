@@ -1,0 +1,1 @@
+Inputs into the model denoted by x values $x_{1-p}$ where $p$ is the total number of [[Feature]]s.
