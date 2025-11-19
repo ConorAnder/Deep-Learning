@@ -1,0 +1,1 @@
+The width and height of an image. [[Max Pooling]] can be used to reduce this.

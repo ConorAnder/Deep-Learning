@@ -8,28 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d062cc1ae7000a51",
+            "id": "3507ee1b58dd6078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Regression and Least Squares/Linear Regression.md",
+                "file": "Batch Normalisation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression"
+              "title": "Batch Normalisation"
             }
           }
         ]
       },
       {
-        "id": "f81e0e81b27c2369",
+        "id": "9a39abc0d78bb29d",
         "type": "tabs",
         "children": [
           {
-            "id": "95ca46003aea2c79",
+            "id": "888968ea8536fbb4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -186,20 +186,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "d062cc1ae7000a51",
+  "active": "888968ea8536fbb4",
   "lastOpenFiles": [
-    "Parts of a Model/Weight.md",
+    "Parts of a Model/Softmax.md",
+    "Matrix Derivative Identities.md",
+    "Parts of a Model/Logit.md",
+    "Batch Normalisation.md",
+    "Labs/Lab-5.md",
+    "Loss Functions/Cross Entropy.md",
+    "Parts of a Model/Error.md",
+    "Loss Functions/Loss Function.md",
+    "Loss Functions/Mean Squared Error.md",
+    "Parts of a Model/Gradient.md",
+    "Parts of a Model/Epoch.md",
+    "Parts of a Model/Batch Size.md",
+    "Convolutional Neural Networks/Spatial Dimension.md",
+    "feature maps.md",
     "Linear Regression and Least Squares/Linear Regression.md",
+    "Parts of a Model/Weight.md",
+    "Parts of a Model/Feature.md",
     "Linear Regression and Least Squares/Linear or Not.md",
+    "Convolutional Neural Networks",
+    "Labs",
     "Problems/Underfitting.md",
     "Problems",
-    "Parts of a Model/Gradient.md",
-    "Loss Functions/Loss Function.md",
-    "Matrix Derivative Identities.md",
-    "Loss Functions/Mean Squared Error.md",
     "Loss Functions",
-    "Parts of a Model/Feature.md",
-    "Parts of a Model/Error.md",
     "Parts of a Model",
     "Welcome.md",
     "Linear Regression and Least Squares"
